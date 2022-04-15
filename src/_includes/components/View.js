@@ -1,9 +1,6 @@
 const { html } = require("common-tags");
 
 function View() {
-  const handle = () => {
-    alert("hello");
-  };
   return html`
     <div>
       <input
