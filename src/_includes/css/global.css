@@ -1,0 +1,35 @@
+.input1::placeholder{
+      
+    text-align: center;
+  }
+  .input2::placeholder{
+      
+    text-align: center;
+  }
+body{
+    background: linear-gradient(to right, #642b73, #c6426e)
+}
+.Container{
+  margin: 30px
+}
+
+.container1{
+     display: table-cell;
+      width: 1500px;
+      height: 500px;
+      vertical-align: middle;
+      text-align: center;
+}
+.container2{
+  display: inline-block;width: 100%; text-align: center;
+}
+.input1{
+  width: 50%; border-radius: 30px;height: 50px;border-color: white;
+
+}
+.input2{
+  width: 40%; border-radius: 30px;height: 50px;border-color: white;
+ 
+}
+.btn{
+  border-radius: 30px
